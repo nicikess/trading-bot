@@ -1,0 +1,22 @@
+{
+    "error": [],
+    "result": {
+        "trades": {
+            "TCWJEG-FL4SZ-3FKGH6": {
+                "ordertxid": "OQCLML-BW3P3-BUCMWZ",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XETHZUSD",
+                "time": 1616667769.6396,
+                "type": "buy",
+                "ordertype": "limit",
+                "price": "2884.34000",
+                "cost": "144.21700",
+                "fee": "0.00000",
+                "vol": "0.05000000",
+                "margin": "0.00000",
+                "misc": ""
+            }
+        },
+        "count": 1
+    }
+}
